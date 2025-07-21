@@ -1,11 +1,12 @@
-EGIN:VCARD
+BEGIN:VCARD
 VERSION:3.0
 FN:Naoufel CHTARA
+N:CHTARA;Naoufel;;;
 TITLE:General Manager
 ORG:Novotel & Ibis Dakar
-EMAIL:naoufel.CHTARA@accor.com
-TEL;TYPE=CELL:+221777407951
-TEL;TYPE=WORK:+221338496161
-ADR;TYPE=WORK:;;Avenue Abdoulaye Fadiga, BP 2073;Dakar;;18524;Senegal
-URL:https://all.accor.com/hotel/6184/index.fr.shtml
+TEL;TYPE=WORK,VOICE:+221777407951
+TEL;TYPE=WORK,VOICE:+221338496161
+EMAIL;TYPE=INTERNET,WORK:naoufel.CHTARA@accor.com
+URL:https://all.accor.com
+ADR;TYPE=WORK:;;Avenue Abdoulaye Fadiga, BP 2073 - 18524;Dakar;;Senegal
 END:VCARD
